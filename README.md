@@ -1,5 +1,5 @@
-# DataMining-FinalProject
 # Mining_ESS_Data 
+## DataMining-FinalProject
 
 This project was a final assignment of Data Mining course at IT University in Copenhagen. 
 
